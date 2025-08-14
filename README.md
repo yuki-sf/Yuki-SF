@@ -1,21 +1,27 @@
-<h2 align="left">Hi 👋! I am Yuki !</h2>
+<h2 align="left">Hi 👋! I am Yuki ! </h2>
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yuki-sf.yuki-sf&" 
+    style="width: 115px; height: 30px;" 
+  />
+</div> 
 
 ###
 
 <div align="center">
   <img href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yuki-sf&theme=radical&mode=weekly" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api?username=yuki-sf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="200" alt="stats graph"  />
+</div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuki-sf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="500" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuki-sf&theme=redical&area=true&radius=5" height="500" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<img align="left" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -33,7 +39,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
@@ -49,8 +55,9 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/yuki-sf/yuki-sf/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yuki-sf/yuki-sf/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
@@ -62,16 +69,13 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yuki-sf.yuki-sf&"  />
-</div>
-
 ###
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuki-sf/yuki-sf/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuki-sf/yuki-sf/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yuki-sf/yuki-sf/output/pacman-contribution-graph.svg">
 </picture>
+
 
 ###
