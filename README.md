@@ -9,7 +9,6 @@
 
 <div align="center">
   <img href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yuki-sf&theme=radical&mode=weekly" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=yuki-sf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="200" alt="stats graph"  />
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuki-sf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="500" alt="languages graph"  />
