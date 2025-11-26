@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 - 🎓 Final-year **Computer Science Engineering** student (7th Sem)  
-- 💻 Passionate about **Full-Stack Development, Machine Learning, and Blockchain**   
+- 💻 Passionate about **Full-Stack Development, AI and Machine Learning, and Games**.   
 - 🎨 Love creating **intuitive UIs, digital art, and music**  
 - 📚 Always exploring **new tech & tools**  
 
@@ -19,17 +19,17 @@
 
 ## 🛠️ Tech Stack  
 
-| 💻 Languages | 🌐 Web Development | 📱 Mobile | 🗄️ Databases & Cloud | ⚡ Other Tools |
-|--------------|-------------------|-----------|----------------------|----------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> <img src="https://skillicons.dev/icons?i=vite" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> <img src="https://skillicons.dev/icons?i=streamlit" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> <img src="https://skillicons.dev/icons?i=supabase" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>  <img src="https://skillicons.dev/icons?i=opencv" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/> |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,cplusplus,django,react,vite,nodejs,streamlit,express,mysql,supabase,docker,mongodb,aws,git,opencv,unity,flutter,phaser,arduino,figma&perline=11&theme=light" alt="My Skills" />
+</p>
 
 
 ---
 
-## 🎯 Current Goals
-- 🌐 Build **decentralized apps** with Web3 & Solidity  
-- 📱 Create more **productive mobile apps**  
-- ☁️ Expand expertise in **cloud & scalable systems**  
+## 🎯 Under Development
+- 🎮 Single Player **Unity Game**.  
+- 📱 **Flutter App** with live session.  
+- ☁️ AI Agent and Workflows using **Gemini**.  
 
 ---
 
