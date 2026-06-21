@@ -10,8 +10,8 @@
 </p>
 
 ## 🚀 About Me
-- 🎓 Final-year **Computer Science Engineering** student (7th Sem)  
-- 💻 Passionate about **Full-Stack Development, AI and Machine Learning, and Games**.   
+- 🎓 Final-year **Computer Science Engineering** student (8th Sem)  
+- 💻 Passionate about **Data Science, AI and Machine Learning, and Games**.   
 - 🎨 Love creating **intuitive UIs, digital art, and music**  
 - 📚 Always exploring **new tech & tools**  
 
@@ -25,12 +25,12 @@
 
 
 ---
-
+<!--
 ## 🎯 Under Development
 - 🎮 Single Player **Unity Game**.  
 - 📱 **Flutter App** with live session.  
 - ☁️ AI Agent and Workflows using **Gemini**.  
-
+-->
 ---
 
 ## 📫 Let's Connect
